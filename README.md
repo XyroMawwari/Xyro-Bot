@@ -27,7 +27,6 @@
 </details>
 
 ini semua gratis, jangan pelit ⭐️ ya :D
-<p align="center"><a href="https://arugaz.herokuapp.com/" target="_blank">Free Rest APIs</a>.</p>
 <p align="center"><a href="https://wa.me/628876729780?text=Hay%Xyro" target="_blank">Whatsapp Author</a>.</p>
 <p align="center"><a href="https://wa.me/6282134580805?text=Hay%Tierkun" target="_blank">Whatsapp bestie author</a>.</p>
 </div>
