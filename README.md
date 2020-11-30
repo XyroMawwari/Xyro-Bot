@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-<img src="https://media.giphy.com/media/iDgCiGdQ3PAtwWlSxB/source.mp4" width="256" height="256">
+<img src="https://media.giphy.com/media/kdFxbG69raaPw142Vl/source.gif" width="256" height="256">
 </p>
 <p align="center">
 <a href="#"><img title="Xyro-Bot" src="https://img.shields.io/badge/Xyro Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
