@@ -807,7 +807,7 @@ case '${prefix}quotemaker':
                 client.reply(from, randombijak, id)
             })
             .catch(() => {
-                aruga.reply(from, 'Ada yang Error!', id)
+                client.reply(from, 'Ada yang Error!', id)
             })
             break
      case '${prefix}pantun':
