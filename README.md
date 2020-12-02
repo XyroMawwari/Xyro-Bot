@@ -22,7 +22,7 @@
 <details>
  <summary>🥟 Help me!</summary>
  
- [Pulsa](Pulsa : 08876729780)
+ [Pulsa](Pulsa : 085258884722)
  
 </details>
 
